@@ -48,6 +48,7 @@ public class Main {
             else{
                 value += Character.getNumericValue(c) * Math.pow(16 , (length) - (i + 1));
                 i++;
+                //hi
             }
         }
 
